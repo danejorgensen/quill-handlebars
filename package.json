@@ -1,6 +1,6 @@
 {
-  "name": "@danejorgensen/quill-handlebars",
-  "version": "1.0.0",
+  "name": "quill-handlebars",
+  "version": "1.0.1",
   "description": "quill-handlebars is a module to provide {{firstname}} handlebars to build dynamic Email Templates functionality for quill rich text editor.",
   "author": "@danejorgensen",
   "license": "MIT",
