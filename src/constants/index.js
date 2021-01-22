@@ -1,4 +1,3 @@
-// Keys Code for drop down action
 const Keys = {
   TAB: 9,
   ENTER: 13,

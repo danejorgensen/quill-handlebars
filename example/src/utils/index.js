@@ -1,1 +1,0 @@
-// HandlerBar Actions Functions
