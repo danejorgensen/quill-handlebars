@@ -1,6 +1,6 @@
 {
   "name": "quill-handlebars",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "quill-handlebars is a module to provide {{firstname}} handlebars to build dynamic Email Templates functionality for quill rich text editor.",
   "main": "dist/quill.handlebars.csj.js",
   "module": "dist/quill.handlebars.esm.js",
