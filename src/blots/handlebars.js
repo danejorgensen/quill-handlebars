@@ -9,7 +9,7 @@ class HandlebarsBlot extends Embed {
     denotationChar.className = "ql-handlebars-denotation-char";
     denotationChar.innerHTML = data.denotationChar;
     node.appendChild(denotationChar);
-    node.innerHTML += data.value;
+    node.innerHTML += data.value + "}}";
     return HandlebarsBlot.setDataValues(node, data);
   }
 
