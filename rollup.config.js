@@ -9,15 +9,6 @@ export default [
     input: "src/quill.handlebars.js",
     output: [
       {
-        file: "docs/quill.handlebars.min.js",
-        format: "iife",
-        name: "quillHandlebars",
-        plugins: [terser()],
-        globals: {
-          quill: "Quill",
-        },
-      },
-      {
         file: "dist/quill.handlebars.min.js",
         format: "iife",
         name: "quillHandlebars",
